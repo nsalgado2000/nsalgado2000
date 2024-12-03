@@ -1,8 +1,8 @@
 ## Seja Bem vindo(a) ao meu perfil no GitHub!
 
 <div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nsalgado2000&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsalgado2000&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=nsalgado2000&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsalgado2000&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
 
