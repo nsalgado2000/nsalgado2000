@@ -2,7 +2,7 @@
 
 <div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=nsalgado2000&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsalgado2000&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsalgado2000&layout=compact&langs_count=16&theme=dracula&cache_buster=1"/>
 </div>
 
 <div align="center"> 
@@ -16,5 +16,4 @@
 </div>
 </div>
 
-  ![Snake animation](https://github.com/nsalgado2000/nsalgado2000/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/nsalgado2000/nsalgado2000/blob/output/github-contribution-grid-snake.svg)
