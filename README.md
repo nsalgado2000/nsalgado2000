@@ -1,8 +1,8 @@
 ## Welcome to my GitHub profile!
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nsalgado2000&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsalgado2000&layout=compact&langs_count=16&theme=dracula&cache_buster=1"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nsalgado2000&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsalgado2000&layout=compact&langs_count=16&theme=dracula&cache_buster=1"/>
 </p>
 
 <div align="center"> 
