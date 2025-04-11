@@ -1,6 +1,6 @@
 ## .:♡:..:♡:..:♡:. 【Ｎｓａｌｇａｄｏ'ｓ　Ｃｙｂｅｒ　Ｈｅａｖｅｎ】 .:♡:..:♡:..:♡:.
 <div align="center">
-<img src="https://i.pinimg.com/236x/27/41/26/274126102f3c8a01ea2cf043fab8b057.jpg" width="700">
+<img src="https://i.pinimg.com/236x/27/41/26/274126102f3c8a01ea2cf043fab8b057.jpg" width="400">
 ░▒▓█▓▒░ 🌟⋆｡˚ ⁺˖⸜ ♡ ⸝⁺˖｡⋆🌟 ░▒▓█▓▒░
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nsalgado2000&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&border_color=ff00ff&title_color=00ffff&icon_color=ff00ff&text_color=00ffaa"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsalgado2000&layout=compact&langs_count=16&theme=synthwave&border_color=ff00ff&title_color=00ffff&text_color=00ffaa&cache_buster=42069"/>
