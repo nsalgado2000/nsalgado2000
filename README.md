@@ -1,10 +1,10 @@
-## .:♡:..:♡:..:♡:. 【Ｎｓａｌｇａｄｏ'ｓ　Ｃｙｂｅｒ　Ｈｅａｖｅｎ】 .:♡:..:♡:..:♡:.
+## .::..::..::. 【Ｎｓａｌｇａｄｏ'ｓ　Ｃｙｂｅｒ　Ｈｅａｖｅｎ】 .::..::..::.
 <div align="center">
 <img src="https://i.pinimg.com/236x/27/41/26/274126102f3c8a01ea2cf043fab8b057.jpg" width="400">
 ░▒▓█▓▒░ 🌟⋆｡˚ ⁺˖⸜ ♡ ⸝⁺˖｡⋆🌟 ░▒▓█▓▒░
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nsalgado2000&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&border_color=ff00ff&title_color=00ffff&icon_color=ff00ff&text_color=00ffaa"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsalgado2000&layout=compact&langs_count=16&theme=synthwave&border_color=ff00ff&title_color=00ffff&text_color=00ffaa&cache_buster=42069"/>
-▁ ▂ ▄ ▅ ▆ ▇ █ 🎀 【ＶＩＳＩＴＯＲ　ＣＯＵＮＴＥＲ】 🎀 █ ▇ ▆ ▅ ▄ ▂ ▁
+▁ ▂ ▄ ▅ ▆ ▇ █  【ＶＩＳＩＴＯＲ　ＣＯＵＮＴＥＲ】  █ ▇ ▆ ▅ ▄ ▂ ▁
 <img src="https://profile-counter.glitch.me/nsalgado2000/count.svg">
 <img src="https://i.makeagif.com/media/10-20-2022/dqQYHq.gif" width="400">
 </div>
@@ -26,7 +26,7 @@
 <table border="1" style="border-color: #FF00FF;" cellpadding="5">
 <tr>
 <td style="background-color: #000000;">
-<span style="color: #00FFFF;">⋆⭒˚｡⋆💖 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓜𝓮 💖⋆｡˚⭒⋆</span>
+<span style="color: #00FFFF;">⋆⭒˚｡⋆ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓜𝓮 ⋆｡˚⭒⋆</span>
 </td>
 </tr>
 </table>
@@ -36,7 +36,7 @@
 </a>
 <br><br>
 <img src="https://images.steamusercontent.com/ugc/879748616164108107/8F44EE6DAFB4F4E2469AA4947059A09E1A78E93C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="300">
-<h2>(っ◔◡◔)っ ♥ ᵗʰᵃⁿᵏˢ ᶠᵒʳ ᵛⁱˢⁱᵗⁱⁿᵍ ᵐʸ ᵖʳᵒᶠⁱˡᵉ ♥</h2>
+<h2>(っ◔◡◔)っ  ᵗʰᵃⁿᵏˢ ᶠᵒʳ ᵛⁱˢⁱᵗⁱⁿᵍ ᵐʸ ᵖʳᵒᶠⁱˡᵉ </h2>
 <img src="https://giffiles.alphacoders.com/111/111900.gif" width="300">
 <br>
 <img src="https://img1.picmix.com/output/pic/normal/7/6/4/7/10937467_17a28.gif" width="100">
