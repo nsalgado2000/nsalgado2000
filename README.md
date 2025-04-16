@@ -1,4 +1,4 @@
-## .::..::..::. 【Ｎｓａｌｇａｄｏ'ｓ　Ｃｙｂｅｒ　Ｈｅａｖｅｎ】 .::..::..::.
+## .::..::..::. 【Ｎｓａｌｇａｄｏ'ｓ　Ｃｙｂｅｒｐｌａｃｅ】 .::..::..::.
 <div align="center">
 <img src="https://i.pinimg.com/236x/27/41/26/274126102f3c8a01ea2cf043fab8b057.jpg" width="400">
 ░▒▓█▓▒░ 🌟⋆｡˚ ⁺˖⸜ ♡ ⸝⁺˖｡⋆🌟 ░▒▓█▓▒░
@@ -23,16 +23,7 @@
 <br><br>
 </div>
 <div align="center">
-<table border="1" style="border-color: #FF00FF;" cellpadding="5">
-<tr>
-<td style="background-color: #000000;">
-<span style="color: #00FFFF;">⋆⭒˚｡⋆ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓜𝓮 ⋆｡˚⭒⋆</span>
-</td>
-</tr>
-</table>
 <br>
-<a href="https://github.com/nsalgado2000">
-<img src="https://img.shields.io/badge/Github-FF00FF?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <br><br>
 <img src="https://images.steamusercontent.com/ugc/879748616164108107/8F44EE6DAFB4F4E2469AA4947059A09E1A78E93C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="300">
