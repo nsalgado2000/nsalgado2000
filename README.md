@@ -1,4 +1,4 @@
-# Nsalgado
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3776AB&width=435&lines=Hello%2C+I'm+Nicolas+Salgado;Full+Stack+Developer;Java+%7C+Python+%7C+C%2B%2B;Arch+Linux+User" alt="Typing SVG" /></a>
 
 **Information Systems Undergraduate | Federal University of Juiz de Fora (UFJF)**
 
