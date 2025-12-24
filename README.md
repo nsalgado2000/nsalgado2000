@@ -1,36 +1,61 @@
-<div align="center">
-  <h2>Olá, eu sou o Nsalgado! 👋</h2>
-  <p>Desenvolvedor de Software | Entusiasta em Tecnologia</p>
+# Nsalgado
 
-  </div>
+**Information Systems Undergraduate | Federal University of Juiz de Fora (UFJF)**
 
-<br />
+Technology student focused on software development and data science. Currently deepening knowledge in data structures, algorithm analysis, and the Linux ecosystem.
 
-### 🛠️ Tecnologias e Ferramentas
+---
 
-Tenho experiência e estou aprimorando minhas habilidades nas seguintes tecnologias:
+### 🛠️ Technical Skills
+
+Core stack and tools:
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  </div>
-
-<br />
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nsalgado2000&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsalgado2000&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
-  </div>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
+
+---
+
+### 🔭 Current Focus & Learning
+
+I am currently dedicating my studies to bridging the gap between high-performance computing and data analysis:
+
+* **Data Science:** Analyzing datasets using **Pandas** and visualizing trends with **Seaborn/Matplotlib**.
+* **System Customization:** Optimizing workflow efficiency with **Arch Linux** and **Sway WM**.
+* **Backend Engineering:** Building scalable APIs with **Spring Boot** and **FastAPI**.
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="25%"><b>Project</b></td>
+    <td width="55%"><b>Description</b></td>
+    <td width="20%"><b>Stack</b></td>
+  </tr>
+  <tr>
+    <td><a href="https://gisele-landing-page-next.vercel.app/"><b>Educator Landing Page</b></a></td>
+    <td>Professional landing page developed for a <b>Wella Professionals</b> educator. Focused on responsiveness, SEO, and high conversion.</td>
+    <td><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"></td>
+  </tr>
+  <tr>
+    <td><a href="https://portfolio-nicolas-salgado.vercel.app/"><b>Personal Portfolio</b></a></td>
+    <td>Interactive portfolio website designed to showcase my software development journey, skills, and academic projects.</td>
+    <td><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"></td>
+  </tr>
+</table>
 
 <br />
 
 ---
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
-</p>
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
